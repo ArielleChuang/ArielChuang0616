@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ariel!
+- 👋 Hi, I’m Arielle!
 - 👀 I’m interested in front-end and Python techniques 
 - 📫 How to reach me : 
      archuang@umich.edu
