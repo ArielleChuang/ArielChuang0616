@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Arielle!
 - 👀 I’m interested in front-end and Python techniques 
+- 🖥 Personal Website: 
+     https://ariellechuang.github.io/
 - 📫 How to reach me : 
      archuang@umich.edu
 
